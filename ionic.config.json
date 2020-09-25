@@ -1,0 +1,7 @@
+{
+  "name": "tnsession",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
